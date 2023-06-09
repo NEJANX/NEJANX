@@ -25,7 +25,7 @@
 
 
 
-I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bit of python and I'm always willing to learn new things! I am 14 years old and I live in the Sri Lanka. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via <a href="https://discord.com/channels/@me/979659796334641152">Discord</a>!
+I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bit of python and I'm always willing to learn new things! I am 14 years old and I live in Sri Lanka. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via <a href="https://discord.com/channels/@me/979659796334641152">Discord</a>!
 <br><br>
 
 <a href="https://discord.com/channels/@me/979659796334641152"> <img src="https://discord.c99.nl/widget/theme-2/979659796334641152.png" alt="discord"> </a>
