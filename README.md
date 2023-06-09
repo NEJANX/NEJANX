@@ -34,7 +34,7 @@ I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> **Skills**</b>
-<br>
+
 
 
   <!-- <summary><h2>🛠️ My Favorite Tools</h2></summary> -->
