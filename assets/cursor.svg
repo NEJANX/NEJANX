@@ -1,7 +1,12 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
 <svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 491.146 491.146" xml:space="preserve" fill="#000000">
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier"> <path style="fill:#146eff;" d="M440,138.558L0,0.158l137.6,439.2c9.6,32,44.8,47.2,77.6,34.4c8.8-4,16.8-8.8,24-16 c14.4-14.4,53.6-65.6,62.4-96l117.6,117.6c15.2,15.2,41.6,14.4,58.4-2.4s18.4-43.2,2.4-58.4l-116.8-116c37.6-8,99.2-59.2,110.4-87.2 C486.4,182.558,471.2,148.158,440,138.558z"/> <path style="fill:#0042db;" d="M301.6,362.558l117.6,117.6c15.2,15.2,41.6,14.4,58.4-2.4s18.4-43.2,2.4-58.4l-116.8-116.8 c37.6-8,99.2-59.2,110.4-87.2c12.8-32.8-2.4-67.2-34.4-77.6L0,0.158"/> <path style="fill:#000ed1;" d="M419.2,480.158c15.2,15.2,41.6,14.4,58.4-2.4s18.4-43.2,2.4-58.4l-116.8-116.8"/> </g>
-</svg>
+
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g id="SVGRepo_iconCarrier"> <path style="fill:#146eff;" d="M440,138.558L0,0.158l137.6,439.2c9.6,32,44.8,47.2,77.6,34.4c8.8-4,16.8-8.8,24-16 c14.4-14.4,53.6-65.6,62.4-96l117.6,117.6c15.2,15.2,41.6,14.4,58.4-2.4s18.4-43.2,2.4-58.4l-116.8-116c37.6-8,99.2-59.2,110.4-87.2 C486.4,182.558,471.2,148.158,440,138.558z"/> <path style="fill:#0042db;" d="M301.6,362.558l117.6,117.6c15.2,15.2,41.6,14.4,58.4-2.4s18.4-43.2,2.4-58.4l-116.8-116.8 c37.6-8,99.2-59.2,110.4-87.2c12.8-32.8-2.4-67.2-34.4-77.6L0,0.158"/> <path style="fill:#000ed1;" d="M419.2,480.158c15.2,15.2,41.6,14.4,58.4-2.4s18.4-43.2,2.4-58.4l-116.8-116.8"/> </g>
+
+</svg>
