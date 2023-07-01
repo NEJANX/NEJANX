@@ -163,10 +163,10 @@ I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bi
   <h3>🎮 Games</h3>
 
   <p>
-      <img alt="Epic Games" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
-      <img alt="Riot Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white">
-      <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-      <img alt="XBox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
+      <img alt="Epic Games" src="https://img.shields.io/badge/Epic%20Games-313131?logo=Epic%20Games&logoColor=white">
+      <img alt="Riot Games" src="https://img.shields.io/badge/Riot_Games-D32936?logo=riot-games&logoColor=white">
+      <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white">
+      <img alt="XBox" src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white">
   </p>
 
 
