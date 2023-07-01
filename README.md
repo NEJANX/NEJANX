@@ -141,23 +141,24 @@ I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bi
       <!-- <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white"></a>
+<a href="#"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?logo=Duolingo&logoColor=white"></a>
+<a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
+<a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux-mint&logoColor=white"></a>
+<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
+<a href="#"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?logo=powershell&logoColor=white"></a>
+<a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white"></a>
+<a href="#"><img alt="Tor" src="https://img.shields.io/badge/Tor_Browser-7D4698?logo=Tor-Browser&logoColor=white"></a>
+<a href="#"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white"></a>
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?logo=windows%20terminal&logoColor=white"></a>
+<a href="#"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
+<a href="#"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white"></a>
   </p>
 
-  <p>
-    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
-<a href="#"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
-<a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
-<a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></a>
-<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
-<a href="#"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"></a>
-<a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="#"><img alt="Tor" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"></a>
-<a href="#"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="#"><img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"></a>
-<a href="#"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="#"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"></a>
-  </p>
+  
+    
+
 
   <h3>🎮 Games</h3>
 
