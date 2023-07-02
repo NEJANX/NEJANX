@@ -188,7 +188,11 @@ I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bi
 
 # <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="35"><b> **Github Activity Stats**</b>
 <div align='left' id="">
-<img hei src="https://streak-stats.demolab.com/?user=ne-jan&theme=react&hide_border=true&card_width=1000">
+<img src="https://streak-stats.demolab.com/?user=ne-jan&theme=react&hide_border=true&card_width=1000">
 <br>
-<img alt="NEJAN's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ne-jan&bg_color=1F222E&color=ffffff&line=00ffff&point=FFFFFF&hide_border=true&border_radius=4.5" />
+<img src="https://github-readme-stats.vercel.app/api?username=ne-jan&show_icons=true&bg_color=1F222E&hide_border=true&card_width=1000&color=ffffff&theme=dark">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ne-jan&bg_color=1F222E&color=ffffff&theme=dark&hide_border=true&card_width=1000">
+<br>
+<img alt="NEJAN's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ne-jan&bg_color=1F222E&color=ffffff&line=00ffff&point=FFFFFF&hide_border=true&border_radius=45" />
 </div>
