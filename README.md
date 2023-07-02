@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br><br>
 <img src="https://raw.githubusercontent.com/ne-jan/ne-jan/main/assets/nejan.png" width="25%" alt="ne-jan"><br><br><br>
-<img src="https://raw.githubusercontent.com/ne-jan/ne-jan/main/assets/banner.jpg" alt="ne-jan"></div>
+<img src="https://raw.githubusercontent.com/ne-jan/ne-jan/main/assets/banner1.jpg" alt="ne-jan"></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
