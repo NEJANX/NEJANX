@@ -95,7 +95,7 @@ I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bi
       <!-- <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
-      <a href="#"><img alt="WIX" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"></a>
+      <a href="#"><img alt="WIX" src="https://img.shields.io/badge/Wix-000?logo=wix&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
