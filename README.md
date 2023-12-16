@@ -28,7 +28,7 @@
 I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bit of python and I'm always willing to learn new things! I am 14 years old and I live in Sri Lanka. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via <a href="https://discord.com/channels/@me/979659796334641152">Discord</a>!
 <br><br>
 
-<a href="https://discord.com/channels/@me/979659796334641152"> <img src="https://discord.c99.nl/widget/theme-2/979659796334641152.png" alt="discord"> </a>
+<a href="https://discord.com/channels/@me/979659796334641152"> <img src="https://discord.c99.nl/widget/theme-1/979659796334641152.png" alt="discord"> </a>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -141,8 +141,6 @@ I am a JavaScript developer. But I have experience with PHP, HTML, CSS, and a bi
       <!-- <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white"></a>
-<a href="#"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02?logo=Duolingo&logoColor=white"></a>
 <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 <a href="#"><img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux-mint&logoColor=white"></a>
 <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
