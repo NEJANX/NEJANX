@@ -27,8 +27,10 @@
 
 I am a Node.JS developer. But I have experience with PHP, HTML, CSS, C and a bit of python and I'm always willing to learn new things! I am 15 years old and I live in Sri Lanka. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via <a href="https://discord.com/channels/@me/979659796334641152">Discord</a>!
 <br><br>
+<div align="center">
+  <a href="https://discord.com/channels/@me/979659796334641152"> <img src="https://discord.c99.nl/widget/theme-6/979659796334641152.png" alt="discord"> </a>
+</div>
 
-<a href="https://discord.com/channels/@me/979659796334641152"> <img src="https://discord.c99.nl/widget/theme-6/979659796334641152.png" alt="discord"> </a>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -41,8 +43,8 @@ I am a Node.JS developer. But I have experience with PHP, HTML, CSS, C and a bit
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 <p align="center">
-  <a href="https://nejan.serendibytes.com">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cloudflare,aws,bash,codepen,css,debian,devto,discord,bots,discordjs,docker,electron,figma,firebase,flask,git,github,html,js,linux,md,mastodon,mongodb,mysql,nginx,nodejs,npm,php,py,redhat,vscode," />
+  <a href="https://nejan.me">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cloudflare,aws,bash,codepen,css,debian,devto,discord,bots,discordjs,docker,electron,figma,firebase,flask,git,github,html,js,linux,md,mastodon,mongodb,mysql,nginx,nodejs,npm,php,py,redhat,vscode," width="100%"/>
   </a>
 </p>
 
@@ -63,13 +65,18 @@ I am a Node.JS developer. But I have experience with PHP, HTML, CSS, C and a bit
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width ="35"><b> **Github Activity Stats**</b>
-<div align='left' id="">
-<img src="https://streak-stats.demolab.com/?user=NEJANX&theme=react&hide_border=true&card_width=1000">
+# <img src="https://i.imgur.com/MhI5jOW.gif" width ="35"><b> **Github Activity Stats**</b>
+<div align='center' id="">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NEJANX&theme=react" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NEJANX&theme=react" width="49.74%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NEJANX&theme=react" width="49.74%">
+  
+<img src="https://streak-stats.demolab.com/?user=NEJANX&theme=react&hide_border=true&card_width=750" width="100%">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=NEJANX&show_icons=true&bg_color=1F222E&hide_border=true&card_width=1000&color=ffffff&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NEJANX&theme=react" width="49.7%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NEJANX&theme=react&utcOffset=8" width="49.7%">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEJANX&bg_color=1F222E&color=ffffff&theme=dark&hide_border=true&card_width=1000">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEJANX&bg_color=1F222E&color=ffffff&theme=dark&hide_border=true&card_width=1000"> -->
 <br>
-<img alt="NEJAN's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NEJANX&bg_color=1F222E&color=ffffff&line=00ffff&point=FFFFFF&hide_border=true&border_radius=45" />
+<!-- <img alt="NEJAN's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NEJANX&bg_color=1F222E&color=ffffff&line=00ffff&point=FFFFFF&hide_border=true&border_radius=45" /> -->
 </div>
