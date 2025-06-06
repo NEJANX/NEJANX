@@ -26,17 +26,15 @@
 
 
 
-I am a Node.JS developer. But I have experience with PHP, HTML, CSS, C and a bit of python and I'm always willing to learn new things! I am 15 years old and I live in Sri Lanka. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via <a href="https://discord.com/channels/@me/979659796334641152">Discord</a>!
+I am a Node.JS developer. But I have experience with PHP, C++ and a bit of Python and I'm always willing to learn new things! I am 16 years old and I live in Sri Lanka. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via <a href="https://discord.com/channels/@me/979659796334641152">Discord</a>!
 <br><br>
 <div align="center">
   <a href="https://discord.com/channels/@me/979659796334641152"> <img src="https://discord.c99.nl/widget/theme-6/979659796334641152.png" alt="discord"> </a>
 </div>
 
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> **Skills**</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> **Tech Stack**</b>
 
 
 
@@ -63,8 +61,6 @@ I am a Node.JS developer. But I have experience with PHP, HTML, CSS, C and a bit
 </a>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # <img src="https://i.imgur.com/MhI5jOW.gif" width ="35"><b> **Github Activity Stats**</b>
 <div align='center' id="">
