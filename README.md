@@ -26,15 +26,22 @@
 
 
 
-I am a Node.JS developer. But I have experience with PHP, C++ and a bit of Python and I'm always willing to learn new things! I am 16 years old and I live in Sri Lanka. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via <a href="https://discord.com/channels/@me/979659796334641152">Discord</a>!
-<br><br>
+
+I'm <span style="color:#00ffd5;">Nejan</span>, a 16 y/o full-stack dev & cybersec enthusiast from 🇱🇰 Sri Lanka. With 5+ years in the game, I specialize in <span style="color:#fafa00;">Node.js</span>, real-time systems, and Firebase, backed by solid skills in <span style="color:#f07070;">C++</span>, <span style="color:#66c2ff;">Python</span>, and network security.
+
+I've built <b>CTF platforms</b>, <b>OSINT tools</b>, <b>custom Linux environments</b>, and even <b>AI-powered assistants</b> — always pushing the edge between creation and exploitation.
+
+If you want someone who <i>codes like a dev</i> but <i>thinks like a hacker</i> — hit me up on 
+<a href="https://discord.com/channels/@me/979659796334641152" style="color:#00bfff; text-decoration:none;">Discord</a> 💬.
+
+<br>
 <div align="center">
   <a href="https://discord.com/channels/@me/979659796334641152"> <img src="https://discord.c99.nl/widget/theme-6/979659796334641152.png" alt="discord"> </a>
 </div>
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> **Tech Stack**</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> **Tech Stack**</b>
 
 
 
