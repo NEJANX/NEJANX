@@ -3,7 +3,8 @@
 <!-- <br><br><br> -->
 <!-- <img src="https://raw.githubusercontent.com/NEJANX/NEJANX/main/assets/nejan.png" width="25%" alt="NEJANX"><br><br><br> -->
 <!-- <img src="https://raw.githubusercontent.com/NEJANX/NEJANX/main/assets/13840602_5362526.png" alt="Banner"> -->
-<!-- <img src="https://i.imgur.com/FWuZUHW.jpeg" alt="Banner"> -->
+<img src="https://i.imgur.com/FWuZUHW.jpeg" alt="Banner">
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
